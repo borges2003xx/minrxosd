@@ -1,0 +1,26 @@
+= How to compile and flash the code =
+
+
+How to compile and flash arduino code is documented many times on the web.
+
+A good entry point is here: http://code.google.com/p/arducam-osd/wiki/Cfg_Update_Firmware
+
+But don't use their hex file of course, but compile the right one for minRXOSD.
+
+Before you compile the minRXOSD hex file you can change the layout for your needs by editing the following defines in OSD_Panels.ino:
+
+#define PAN_WARN_X
+
+#define PAN_WARN_Y
+
+#define PAN_CHAN_STAT_X_OLDER	
+
+#define PAN_CHAN_STAT_Y_OLDER	
+
+#define PAN_CHAN_STAT_X_FROM_V25
+
+#define PAN_CHAN_STAT_Y_FROM_V25
+
+#define PAN_RX_STAT_X_FROM_V25
+
+#define PAN_RX_STAT_Y_FROM_V25

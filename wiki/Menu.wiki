@@ -1,0 +1,13 @@
+#sidebar Menu
+
+* [Intro Introduction]
+
+  * [Soldering How to solder OSD and RX]
+  * [Compiling How to compile the code]
+  * [Loading How to load the char file]
+  * [Config_OSD How to config OSD]
+  * [Config_RX How to config TSLRS RX]
+  * [Connecting How to connect]
+  * [Testing How to test]
+  * [ScreenSwitching How to switch screens]
+  * [OtherOSD How to use with other OSD]
