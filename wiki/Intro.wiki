@@ -6,6 +6,8 @@ minRXOSD is the firmware for an OSD which shows good/bad packet information of t
 
 minRXOSD uses a cheap hardware known as MinimOSD (about 18$) and can be used standalone or in conjunction with another OSD like, in this example, the minOPOSD: http://code.google.com/p/minoposd/
 
+It's based on the ArduCamOSD project: http://code.google.com/p/arducam-osd/
+
 ----
 
 Here you can see a screenshot with a few bad packets.
