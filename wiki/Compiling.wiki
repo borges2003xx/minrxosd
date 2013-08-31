@@ -7,6 +7,8 @@ A good entry point is here: http://code.google.com/p/arducam-osd/wiki/Cfg_Update
 
 But don't use their hex file of course, but compile the right one for minRXOSD.
 
+And use the 'OSD Config Tool' from the code section trunk/Tools, it's the same as of my other project minOPOSD.
+
 Before you compile the minRXOSD hex file you can change the layout for your needs by editing the following defines in OSD_Panels.ino:
 
 #define PAN_WARN_X
