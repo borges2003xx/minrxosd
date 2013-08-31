@@ -19,7 +19,7 @@ http://minrxosd.googlecode.com/svn/wiki/images/002_MinimOSD_back_soldered.JPG
 
 For powering the MinimOSD and to make screen switching possible I used a normal servo cable and soldered it as shown in this picture:
 
-http://minrxosd.googlecode.com/svn/wiki/images/003_MinimOSD_wire_soldered.jpg
+http://minrxosd.googlecode.com/svn/wiki/images/003_MinimOSD_wire_soldered.JPG
 
 Be careful that you don't short-circuit anything with this soldering!
 
@@ -39,8 +39,8 @@ The TX and RX wires are enough because you can use GND from the servo rail when 
 
 The yellow wire is the analog RSSI which some OSD use, it's not necessary for this OSD.
 
-http://minrxosd.googlecode.com/svn/wiki/images/004_Scherrer_LRS_RX_wire_soldered.jpg
+http://minrxosd.googlecode.com/svn/wiki/images/004_Scherrer_LRS_RX_wire_soldered.JPG
 
 The TSLRS RX properly heat-shrinked:
 
-http://minrxosd.googlecode.com/svn/wiki/images/005_Scherrer_LRS_RX_shrinked.jpg
+http://minrxosd.googlecode.com/svn/wiki/images/005_Scherrer_LRS_RX_shrinked.JPG
