@@ -1,7 +1,7 @@
 = How to config TSLRS RX =
 
 
-You have to install the version V2.7 or later from Thomas Scherrer to your LRS RX for using the following.
+You have to install the version V2.7 or newer from Thomas Scherrer to your LRS RX for using the following.
 
 ----
 
