@@ -13,12 +13,16 @@ Before you compile the minRXOSD hex file you can change the layout and the criti
 
 
 #define PAN_WARN_X
+
 #define PAN_WARN_Y
 
 #define PAN_CHAN_STAT_X
+
 #define PAN_CHAN_STAT_Y
 
 #define PAN_RX_STAT_X
+
 #define PAN_RX_STAT_Y
+
 
 #define CRITICAL_PERCENT
