@@ -12,6 +12,10 @@ And use the 'OSD Config Tool' from my code section trunk/Tools, it's the same as
 Before you compile the minRXOSD hex file you can change the layout and the critical percent threshold for your needs by editing the following defines in OSD_Panels.ino:
 
 
+#define CRITICAL_PERCENT
+
+#define SHOW_MINIMAL
+
 #define PAN_WARN_X
 
 #define PAN_WARN_Y
@@ -23,6 +27,3 @@ Before you compile the minRXOSD hex file you can change the layout and the criti
 #define PAN_RX_STAT_X
 
 #define PAN_RX_STAT_Y
-
-
-#define CRITICAL_PERCENT
